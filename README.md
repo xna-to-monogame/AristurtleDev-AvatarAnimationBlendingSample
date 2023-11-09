@@ -1,8 +1,10 @@
 > **⚠️ Note:**
 > **This sample cannot be converted to MonoGame because it focuses specifically on the Xbox 360 avatar integration provided through `Microsoft.Framework.Xna.GameServices` which is not part of MonoGame.**
-# Avatar Animation Blending Sample
->
 > If you have an idea for how to take this sample and make it relevant for something in MonoGame, please submit discussion on the [Port Issue](https://github.com/xna-to-monogame/AvatarAnimationBlendingSample/issues/1)
+
+ 
+# Avatar Animation Blending Sample
+
 
 This sample shows how to blend two avatar animations together so that they smoothly transition from one animation to the next.
 
